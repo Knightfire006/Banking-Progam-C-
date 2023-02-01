@@ -1,0 +1,8 @@
+﻿  Accounts.cpp
+C:\Users\speed\source\repos\BankingProject\BankingProject\Accounts.cpp(81,13): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\speed\source\repos\BankingProject\BankingProject\Accounts.cpp(88,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\speed\source\repos\BankingProject\BankingProject\Accounts.cpp(99,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  BankingProject.cpp
+  GeneralManagement.cpp
+  Generating Code...
+  BankingProject.vcxproj -> C:\Users\speed\source\repos\BankingProject\Debug\BankingProject.exe
